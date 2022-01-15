@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AeroPl3b Home
+title: AeroPl3b
 email: aeropl3b@gmail.com
 description: >-
   Portfolio website
